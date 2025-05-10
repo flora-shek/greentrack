@@ -1,0 +1,6 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+#chart-container {
+  min-height: 200px;
+}
